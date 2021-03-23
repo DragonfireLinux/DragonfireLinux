@@ -30,7 +30,7 @@ XRay works the same as in original Dragonfire however there is no longer a super
 
 Modes are changed by pressing the key assigned to Mute, by default that key is `M`, yes that's right I have hijacked the mute hotkey for this implementation.
 
-Generally, I consider this a better implementation of the core functionality that the original Dragonfire client offered, with a much less hassle interface that is flicked through in a set of 4 modes using one key.
+Generally, I consider this a better, simplified, implementation of the core functionality that the original Dragonfire client offered, with a much less hassle interface that is flicked through in a set of 4 modes using one key.
 
 **The original Dragonfire client is available here:**
 https://github.com/EliasFleckenstein03/dragonfireclient
