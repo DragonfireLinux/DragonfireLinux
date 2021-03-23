@@ -23,7 +23,7 @@ Otherwise just search these files for the keyword `!!HAX` and you will find ever
 
 It's that simple, all the modifications are pretty basic, if you take a look at them all using that search keyword im sure you can make your own improvements.
 
-I have supplied a pre-compiled linux binary of Mintest 5.50-Dev _(hax0red)_ so if you cba to compile just replace your binary with (this one)[https://github.com/DragonfireLinux/DragonfireLinux/raw/main/minetest].
+I have supplied a pre-compiled linux binary of Mintest 5.50-Dev _(hax0red)_ so if you cba to compile just replace your binary with [this one](https://github.com/DragonfireLinux/DragonfireLinux/raw/main/minetest).
 
 ### Notes
 
