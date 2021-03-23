@@ -1,4 +1,4 @@
-So what I did where was look at how the Dragonfire client did things, and then re-organised it all into the latest dev release (5.50-dev) of Minetest with some improvements.
+## So what I did here was look at how the Dragonfire client did things, and then re-organised it all into the latest dev release (5.50-dev) of Minetest with some minor improvements.
 
 ### Enabled Always
 - No Fall Damage
