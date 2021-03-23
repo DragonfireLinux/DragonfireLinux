@@ -13,7 +13,7 @@
 - Fullbright (no shadows, no night time)
 - Zeus Mode (x-ray vision for mining, makes stone 'transparent')
 - Fast Action/Place (place blocks at record-breaking speed)
-- XRay works the same as in original Dragonfire however there is no longer a superfluous loop, but also now on mode change, the update is instant as I force the client to re-render what is in your line of sight.
+- XRay works the same as in original Dragonfire however there is no longer a superfluous loop, but also now on mode change the update is instant as I force the client to re-render what is in your line of sight.
 
 ### How to setup
 
