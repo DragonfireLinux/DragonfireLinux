@@ -2,7 +2,7 @@ So what I did where was look at how the Dragonfire client did things, and then r
 
 ### Enabled Always:
 - No Fall Damage
-- All Privilages (fly, noclip, fast mode)
+- All Privilages _(fly, noclip, fast mode)_
 - No Slip on slippery surfaces.
 - Fast Digging _(well as fast as possible)_
 - Extended tool range _(can build from far away, etc)_
@@ -10,9 +10,9 @@ So what I did where was look at how the Dragonfire client did things, and then r
 
 ### Modes:
 - Normal mode
-- Fullbright (no shadows, no night time)
-- Zeus Mode (xray vision for mining, makes stone 'transparent')
-- Fast Action/Place (place blocks at record breaking speed)
+- Fullbright _(no shadows, no night time)_
+- Zeus Mode _(xray vision for mining, makes stone 'transparent')_
+- Fast Action/Place _(place blocks at record breaking speed)_
  
 XRay works the same as in original Dragonfire however there is no longer a superfluous loop, but also now on mode change the update is instant as I force the client to re-render what is in your line of sight.
 
