@@ -33,3 +33,4 @@ Generally, I consider this a better implementation of the core functionality tha
 
 **The original Dragonfire client is available here:**
 https://github.com/EliasFleckenstein03/dragonfireclient
+_(but the author only supplies windows builds and it's based on 5.4 stable)_
