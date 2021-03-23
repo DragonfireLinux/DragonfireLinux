@@ -13,7 +13,6 @@
 - Fullbright (no shadows, no night time)
 - Zeus Mode (x-ray vision for mining, makes stone 'transparent')
 - Fast Action/Place (place blocks at record-breaking speed)
-- XRay works the same as in original Dragonfire however there is no longer a superfluous loop, but also now on mode change the update is instant as I force the client to re-render what is in your line of sight.
 
 ### How to setup
 
@@ -26,6 +25,8 @@ It's that simple, all the modifications are pretty basic, if you take a look at 
 I have supplied a pre-compiled linux binary of Mintest 5.50-Dev _(hax0red)_ so if you cba to compile just replace your binary with [this one](https://github.com/DragonfireLinux/DragonfireLinux/raw/main/minetest).
 
 ### Notes
+
+XRay works the same as in original Dragonfire however there is no longer a superfluous loop, but also now on mode change the update is instant as I force the client to re-render what is in your line of sight.
 
 Modes are changed by pressing the key assigned to Mute, by default that key is `M`, yes that's right I have hijacked the mute hotkey for this implementation.
 
