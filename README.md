@@ -16,7 +16,7 @@
 
 ### How to setup
 
-Download Minetest 5.50-Dev from https://github.com/minetest/minetest and copy the source files in this respoitory over the originals in the mintest repo, then compile it. You will now be running the "hax0red" version of Minetest.
+Download Minetest 5.50-Dev from https://github.com/minetest/minetest and copy the source files in this repository over the originals in the mintest repo, then compile it. You will now be running the "hax0red" version of Minetest.
 
 Otherwise just search these files for the keyword `!!HAX` and you will find every modified line in each of the files, which you can use to easily re-produce these modifications manually in the new Mintest releases or versions.
 
