@@ -6,7 +6,6 @@
 - No Slip on slippery surfaces.
 - Fast Digging (well as fast as possible)
 - Extended tool range (can build from far away, etc)
-- Cheat Detection is disabled by default, yes there is a client-side cheat detection flag. Lame I know, it's disabled to report no cheating.
 
 ### Modes
 - Normal mode
